@@ -1,0 +1,56 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs
+# =========================
+*.log
+code_log.txt
+
+# =========================
+# SQLite
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Generated Data
+# =========================
+*.csv
+*.json
+
+# Uncomment if you generate Excel files
+# *.xlsx
+
+# =========================
+# Environment Variables
+# =========================
+.env
+
+# =========================
+# macOS / Windows
+# =========================
+.DS_Store
+Thumbs.db
